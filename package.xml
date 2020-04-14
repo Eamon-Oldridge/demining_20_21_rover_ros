@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>demining-19-20-rover-ros</name>
+  <name>demining_19_20_rover_ros</name>
   <version>0.0.0</version>
-  <description>The demining-19-20-rover-ros package</description>
+  <description>The demining_19_20_rover_ros package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

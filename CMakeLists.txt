@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(demining-19-20-rover-ros)
+project(demining_19_20_rover_ros)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
