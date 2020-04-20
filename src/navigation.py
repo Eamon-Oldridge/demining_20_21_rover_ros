@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 import rospy
 
-def navigation():
-	rospy.init_node('navigation', anonymous='True')
+class navigation():
+	def __init__(self):
+		rospy.init_node('navigation', anonymous='True')
 
 if __name__ == "__main__":
-	navigation()
-	print("YAY")
-
+	obj = navigation()
